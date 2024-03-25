@@ -20,6 +20,7 @@ Fib(40) should return 165580141
 
 # Solution 
 A sample solutions is given in HW2_Fib_Deligiannis.py. The script can be run as follows: 
-`code` 
+` 
 $ python3 HW2_Fib_Deligiannis.py
 8
+`
